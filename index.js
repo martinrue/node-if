@@ -1,4 +1,4 @@
-module.exports = function(condition, trueFn, falseFn) {
+module.exports = function(condition, falseFn, trueFn) {
   if (condition) {
     trueFn && trueFn();
     return true;

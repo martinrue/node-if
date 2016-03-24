@@ -1,6 +1,6 @@
 {
   "name": "node-if",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An if statement is a missed opportunity to take on another dependency. Until now!",
   "main": "index.js",
   "scripts": {
